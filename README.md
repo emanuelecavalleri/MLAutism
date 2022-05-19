@@ -4,7 +4,7 @@
  
  <p align="center">
   <img 
-    src="[https://photo620x400.mnstatic.com/d5064990d15d1075a0485634955b0e26/montesinho-natural-park.jpg](https://valley-cbpingree.s3.us-west-1.amazonaws.com/wp-content/uploads/2020/07/13213032/Screen-Shot-2020-07-13-at-4.30.12-PM-480x451.png)#center"
+    src="https://valley-cbpingree.s3.us-west-1.amazonaws.com/wp-content/uploads/2020/07/13213032/Screen-Shot-2020-07-13-at-4.30.12-PM-480x451.png#center"
   >
 </p>
 
