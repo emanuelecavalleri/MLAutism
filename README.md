@@ -8,4 +8,4 @@
   >
 </p>
 
-The notebook can be viewed at https://nbviewer.org/github/emanuelecavalleri/MLAutism/blob/main/Autism.ipynb.
+The notebook can be viewed at https://nbviewer.org/github/emanuelecavalleri/MLAutism/blob/main/ASD.ipynb.
